@@ -1,0 +1,23 @@
+{
+  "name": "node_webapi",
+  "version": "1.0.0",
+  "description": "node_webapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsvolt/node_webapi.git"
+  },
+  "keywords": [
+    "node",
+    "webapi"
+  ],
+  "author": "gsvolt",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/gsvolt/node_webapi/issues"
+  },
+  "homepage": "https://github.com/gsvolt/node_webapi#readme"
+}
